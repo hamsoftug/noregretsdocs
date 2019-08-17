@@ -2,3 +2,16 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+/application/nbproject/private/
+_import_sub
